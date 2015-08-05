@@ -1,0 +1,29 @@
+{
+  "name": "amy",
+  "version": "0.1.0",
+  "description": "Amy is an AngularJS, MaterialUI, and Electron app starter.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develephant/amy.git"
+  },
+  "keywords": [
+    "Electron",
+    "Material",
+    "UI",
+    "AngularJS",
+    "starter",
+    "template",
+    "stack",
+    "barebones"
+  ],
+  "author": "C. Byerley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/develephant/amy/issues"
+  },
+  "homepage": "https://github.com/develephant/amy#readme",
+  "dependencies": {
+    "diskdb": "^0.1.14"
+  }
+}

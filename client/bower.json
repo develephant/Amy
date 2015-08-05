@@ -1,0 +1,36 @@
+{
+  "name": "amy-async",
+  "version": "0.2.0",
+  "authors": [
+    "Chris Byerley <cbyerley@develephant.com>"
+  ],
+  "description": "An AngularJS, Material UI, and Electron starter app with batteries for AngularJS.",
+  "keywords": [
+    "AngularJS",
+    "Electron",
+    "starter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develephant/amy.git"
+  },
+  "license": "MIT",
+  "homepage": "http://www.develephant.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "client/lib"
+  ],
+  "dependencies": {
+    "ang-electron": "develephant/ang-electron#~0.2.0",
+    "angular": "~1.4.3",
+    "angular-material": "~0.10.0",
+    "angular-route": "~1.4.3",
+    "fira-compact": "develephant/fira-compact#~0.1.0",
+    "jquery": "~2.1.4",
+    "material-design-icons-iconfont": "~2.0.3"
+  }
+}
