@@ -22,12 +22,8 @@
   "bugs": {
     "url": "https://github.com/develephant/amy/issues"
   },
-<<<<<<< HEAD
   "homepage": "https://github.com/develephant/amy#readme",
   "dependencies": {
     "diskdb": "^0.1.14"
   }
-=======
-  "homepage": "https://github.com/develephant/amy#readme"
->>>>>>> 7f8877486984e8eb0e858a7f3b84ccbf76b3d9a3
 }
