@@ -1,0 +1,7 @@
+#md-toolbar-title {
+  font-family: "FiraSans-ExtraBold";
+}
+
+.card-demo md-card {
+  max-height: 100px;
+}
