@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Amy App Stack
+# (c)2015 C. Byerley
+
 BASE=$(pwd)
 
 clear
