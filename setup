@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Amy App Stack
+# (c)2015 C. Byerley
+# http://develephant.github.io/amy
+
 BASE=$(pwd)
 
 clear
