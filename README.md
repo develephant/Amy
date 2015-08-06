@@ -34,7 +34,7 @@ Name | Function
 
 ## Installing __Amy__
 
-To invite __Amy__ App Stack to your development environment, simply click one of the __Download ZIP__ or __Download TAR__ buttons on the left. Once your download completes, decompress the downloaded archive.
+To invite __Amy__ App Stack to your development environment, simply download the [__ZIP archive__](https://github.com/develephant/Amy/zipball/master) or [__TAR archive__](https://github.com/develephant/Amy/tarball/master). Once your download completes, decompress the downloaded archive.
 
 Rename the new directory with a project name. At this point, you need to open your terminal, and navigate to the new project folder.
 
@@ -60,4 +60,4 @@ __Amy__ App Stack includes the [__angElectron__](https://github.com/develephant/
 ---
 
 (c)2015 @develephant -
-All rights reserved by the originals owners, maintainers, and creators.
+All rights reserved by the original owners, maintainers, and creators.
