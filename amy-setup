@@ -9,7 +9,7 @@ BASE=$(pwd)
 clear
 
 echo ' '
-echo 'Got Awesome? Here we go!'
+echo 'Got Awesome? Here it comes...'
 echo ' '
 
 sleep 1
@@ -33,5 +33,6 @@ clear
 cd $BASE
 
 echo ' '
-echo 'You got Amy! Amy is Awesome!'
+echo 'You got Amy. Amy is Awesome!'
+echo 'Code Awesome! Says Amy. Bye.'
 echo ' '

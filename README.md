@@ -8,7 +8,7 @@ __STATUS: In active development.__
 
 __Amy__ App Stack is a _semi-opinionated_ [__AngularJS__](http://angularjs.org), [__Material UI__](https://material.angularjs.org), and [__Electron__](http://electron.atom.io)  project starter for your, soon-to-be, awesome __Electron__ App.
 
-One major feature is the integration of the [__ngElectron__](https://github.com/develephant/ng-electron) module for __AngularJS__.  The module allows for easy communication between the __Electron__ and __AngularJS__ layers.  The module also provides direct access to __Electron__ itself!
+One major feature is the integration of the [__ngElectron__](https://github.com/develephant/ngElectron) module for __AngularJS__.  The module allows for easy communication between the __Electron__ and __AngularJS__ layers.  The module also provides direct access to __Electron__ itself!
 
 __Amy__ app stack is not for the unmotivated developer.  Both __AngularJS__ and __MaterialUI__ take some effort to master, but allow you to make some really awesome __Electron__ and __AngularJS__ desktop applications using popular and up-and-coming tools.
 
@@ -28,7 +28,7 @@ Name | Function
 [Electron](http://electron.atom.io) | Desktop application wrapper
 [AngularJS](http://angularjs.org) | Single Page Application Framework
 [Angular Material UI](https://material.angularjs.org) | Google Material Design Widgets
-[ngElectron](https://github.com/develephant/ng-electron) | AngularJS Electron module
+[ngElectron](https://github.com/develephant/ngElectron) | AngularJS Electron module
 [DiskDB](https://www.npmjs.com/package/diskdb) | MongoDB-like file based data storage
 [Material UI Icons](https://www.google.com/design/icons) | Google Material Design Icons
 
@@ -60,9 +60,9 @@ Hit enter, and this should open up the project and show console output. Play aro
 
 ## ngElectron
 
-__Amy__ App Stack includes the [__ngElectron__](https://github.com/develephant/ng-electron) module for __AngularJS__ providing easy access to the __Electron__ "host" layer.
+__Amy__ App Stack includes the [__ngElectron__](https://github.com/develephant/ngElectron) module for __AngularJS__ providing easy access to the __Electron__ "host" layer.
 
-#### Be sure to read up on it's full functionality at the [__ngElectron__](https://github.com/develephant/ng-electron) page.
+#### Be sure to read up on it's full functionality at the [__ngElectron__](https://github.com/develephant/ngElectron) page.
 
 ---
 

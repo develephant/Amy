@@ -1,4 +1,4 @@
-angular.module('app.controllers', ['angElectron'])
+angular.module('app.controllers', ['ngElectron'])
 
 .controller('MainController', ['$scope', 'electron',
 function($scope, electron) {

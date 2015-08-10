@@ -3,7 +3,7 @@
  */
 angular.module('app',
 [
-  "angElectron",
+  "ngElectron",
   "ngAnimate",
   "ngAria",
   "ngMaterial",

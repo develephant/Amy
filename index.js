@@ -8,7 +8,7 @@ const ipc = require('ipc');
 const BrowserWindow = require('browser-window');
 const Menu = require('menu');
 
-const angular = require('./client/lib/ang-electron/ang-bridge');
+const angular = require('./client/lib/ng-electron/ng-bridge');
 
 function createMainWindow () {
 	const win = new BrowserWindow({
