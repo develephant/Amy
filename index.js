@@ -64,7 +64,7 @@ app.on('ready', function () {
 				submenu: [
 					{
 						label: 'About Amy',
-						click: function() { console.log('cheep! cheep!'); }
+						click: function() { console.log('Version 1.0.Awesome!'); }
 					},
 					{
 						label: 'Quit',
@@ -80,7 +80,7 @@ app.on('ready', function () {
 						label: 'Host to Client',
 						click: function ( msg ) {
 						  var msg = 'Host: Hiya Amy App Stack!';
-							angular.send(msg);
+							angular.send( msg );
 						}
 					}
 				]

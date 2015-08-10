@@ -15,21 +15,23 @@ echo ' '
 sleep 1
 
 cd $BASE
-npm install &
-
-cd $BASE/client
-bower install &
+npm install
 
 clear
 
 echo ' '
-echo 'Now adding awesomeness, please wait...'
+echo 'More awesomeness, please wait...'
 echo ' '
 
-wait %1 %2
+sleep 1
+
+cd $BASE/client
+bower install
+
+clear
 
 cd $BASE
 
 echo ' '
-echo 'You got Awesome! Bye!'
+echo 'You got Amy! Amy is Awesome!'
 echo ' '

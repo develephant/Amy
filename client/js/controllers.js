@@ -7,10 +7,10 @@ function($scope, electron) {
 
     var options = {
       type: 'error',
-      buttons: ['cancel','Awesome'],
-      title: "Ohhhhh",
-      message: "Are you kidding me?",
-      detail: "Make sure to check your pants."
+      buttons: ['Cancel','Awesome!'],
+      title: "Amy is Awesome!",
+      message: "Do you think Amy is Awesome?",
+      detail: "This Electron dialog was opened from AngularJS controller. The response will be sent back to AngularJS. Amy said so."
     }
 
     new Promise(function(resolve, reject) {
