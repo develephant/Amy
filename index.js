@@ -42,14 +42,16 @@ app.on('activate-with-no-open-windows', function () {
 });
 
 app.on('will-quit', function() {
-	console.log('Amy Says, "Stay Awesome!"');
+	console.log('<====================================>');
+	console.log('Amy Says, "Stay Awesome Kids!"');
+	console.log('<====================================>');
 });
 
 app.on('ready', function () {
 	mainWindow = createMainWindow();
-
-	console.log('Amy is ready to get this code started!');
-
+	console.log('<====================================>');
+	console.log("Amy says, \"Let's Code Awesome!\"");
+	console.log('<====================================>');
 	mainWindow.webContents.on('dom-ready', function(e) {
 		//try and manually bootstrap AngularJS
 		var code = "angular.bootstrap(document, ['app']);"
@@ -64,7 +66,7 @@ app.on('ready', function () {
 				submenu: [
 					{
 						label: 'About Amy',
-						click: function() { console.log('Version 1.0.Awesome!'); }
+						click: function() { console.log('Version 1.Amy.Awesome!'); }
 					},
 					{
 						label: 'Quit',
