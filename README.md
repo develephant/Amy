@@ -1,7 +1,5 @@
 # Amy (AME) App Stack
 
-__STATUS: In active development.__
-
 ![Amy is Awesome](https://s3.amazonaws.com/electron-assets/amy-app-small.png)
 
 ## Amy is Awesome!
