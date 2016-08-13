@@ -10,7 +10,7 @@ One major feature is the integration of the [__ngElectron__](https://github.com/
 
 __Amy__ app stack is not for the unmotivated developer.  Both __AngularJS__ and __MaterialUI__ take some effort to master, but allow you to make some really awesome __Electron__ and __AngularJS__ desktop applications using popular and up-and-coming tools.
 
-Feel free to submit any issues, pushes, or [job offers](https://twitter/develephant). Thanks!
+Feel free to submit any issues, pushes, or [job offers](https://twitter.com/develephant). Thanks!
 
 Twit me up sometime @[develephant](http://twitter.com/develephant)
 
